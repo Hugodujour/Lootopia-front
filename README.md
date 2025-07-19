@@ -107,9 +107,9 @@ L'application attend une API REST fonctionnelle sur `/api`.
 
 ## 🤝 Auteurs
 
-- 🎨 Front-End : Hugo GREGOIRE
-- 📱 Mobile : Julien FOURNIER
-- 🛠️ Back-End : Jihed BEN JEMAA
+- 🎨 **Front-End :** Hugo GREGOIRE
+- 📱 **Mobile :** Julien FOURNIER
+- 🛠️ **Back-End :** Jihed BEN JEMAA
 
 Projet réalisé dans le cadre du **Mastère ESI 2024** – Projet fil rouge **Lootopia**.
 
