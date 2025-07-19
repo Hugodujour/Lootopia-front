@@ -1,6 +1,7 @@
 # 🏴‍☠️ Lootopia - Front-End Web
 
 Front-end de l'application de chasse au trésor **Lootopia**, développée avec React, Vite, Tailwind CSS, Axios, et Leaflet (OpenStreetMap).
+
 **Démo live :** <https://lootopia-front.vercel.app/>
 
 ---
